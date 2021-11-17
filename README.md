@@ -17,6 +17,6 @@
 [Классификация комментариев](https://github.com/DariaGoncharevskaia/projects-yandex-praktikum/blob/main/classification_of_comments/classification_of_comments.ipynb) | Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Обучить модель классифицировать комментарии на позитивные и негативные | Pandas, sklearn, numpy, машинное обучение, NLTK, matplotlib, seaborn
 [Спрос на рейсы авиакомпании](https://github.com/DariaGoncharevskaia/projects-data-science/tree/main/sql_project) |Аналитика для авиакомпании: изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие фестивали.| SQL, Pandas, numpy, matplotlib, seaborn
 [Определение возраста по фото](https://github.com/DariaGoncharevskaia/projects-data-science/blob/main/CV/Determining%20the%20age%20of%20buyers.ipynb) | Построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста.| Pandas, keras, Matplotlib, Seaborn
-[Практика обучения нейронных сетей](https://github.com/DariaGoncharevskaia/projects-data-science/tree/main/neural_network_training_practice) | Полносвязные и свёрточные нейронные сети.| numpy, keras
+[Практика обучения нейронных сетей](https://github.com/DariaGoncharevskaia/projects-data-science/tree/main/neural_network_training_practice) | Полносвязные и свёрточные нейронные сети.| numpy, keras, нейронные сети, CV
 </code>
 
