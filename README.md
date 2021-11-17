@@ -21,3 +21,7 @@
 [Выпускной проект - Телеком](https://github.com/DariaGoncharevskaia/projects-data-science/blob/main/graduation_project/graduation%20project.ipynb) | Оператор связи хочет научиться прогнозировать отток клиентов. Построена модель, определяющая вероятность ухода клиента. Результат: **ROC_AUC = 0.92**| Pandas, sklearn, numpy, plotly, машинное обучение, catboost, lightgbm
 </code>
 
+[Дарья Гончаревская_20212DS00831.pdf](https://github.com/DariaGoncharevskaia/projects-data-science/files/7556950/_20212DS00831.pdf)
+[Daria Goncharevskaia_20212DS00831.pdf](https://github.com/DariaGoncharevskaia/projects-data-science/files/7556951/Daria.Goncharevskaia_20212DS00831.pdf)
+
+
